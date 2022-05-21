@@ -2,7 +2,7 @@
 The data was provided by DPhi through Reproductive Child-Healthcare Classification Datathon. GradientBoostingClassifier performed best with a mean K-fold cross validation F-1 score of 94.4 %. LowVariance Thresholding feature selection method did any better. 
 
 ### Data Description
-This dataset contains 2000+ records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into 3 classes:
+This dataset contains 1488 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into 3 classes:
 
 * Normal
 * Suspect
