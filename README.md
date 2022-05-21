@@ -4,37 +4,20 @@ The data was provided by DPhi through Reproductive Child-Healthcare Classificati
 ### Data Description
 This dataset contains 2000+ records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into 3 classes:
 
-Normal
-
-Suspect
-
-Pathological
-
- 
+* Normal
+* Suspect
+* Pathological
 
 Baseline value - Baseline Fetal Heart Rate (FHR)
-
 Accelerations - Number of accelerations per second
-
 Fetal_movement - Number of fetal movements per second
-
 Uterine_contractions - Number of uterine contractions per second
-
 Light_decelerations - Number of LDs per second
-
 Severe_decelerations - Number of SDs per second
-
 Prolongued_decelerations - Number of PDs per second
-
 Abnormal_short_term_variability - Percentage of time with abnormal short term variability
-
 Mean_value_of_short_term_variability - Mean value of short term variability
-
-Percentage_of_time_with_abnormal_long_term_variability - Percentage of time with abnormal long term variability
-
- Sample submission: You should submit a CSV file with a header row and the sample submission can be found below:
-
-fetal_health
+Percentage_of_time_with_abnormal_long_term_variability - Percentage of time with abnormal long term variability  
 
 ### Notes:
 
